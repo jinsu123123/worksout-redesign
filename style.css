@@ -85,3 +85,18 @@
     padding-left: 104px;
   }
   /* top-bar 끝 */
+
+  /* banner-wrap 시작 */
+
+.banner-wrap{
+  width: 1200px;
+  height: 360px;
+  background-color: aqua;
+  margin: 0 auto;
+}
+.banner-wrap > img{
+  width: 1200px;
+  height: 360px;
+  background-position: center;
+}
+  /* banner-wrap 끝 */
